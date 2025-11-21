@@ -1,0 +1,5 @@
+{
+  "name": "NestChat Client",
+  "description": "A high-fidelity frontend for a Nest.js Chat Backend, featuring simulated Real-time WebSockets, JWT Auth, Group/DM support, and Live Status indicators.",
+  "requestFramePermissions": []
+}
